@@ -1,6 +1,6 @@
 # Authors
-Simon Mason
-John Smith
+Simon Mason, University of Manchester
+John Smith, University of Elsewhere
 
 # Title
 Model-measurement comparison of biomass burning aerosol 
