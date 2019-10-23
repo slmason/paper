@@ -2,7 +2,7 @@
 Simon Mason
 
 # Title
-Measurements of biomass burning aerosol 
+Size measurements of biomass burning aerosol 
 over West Africa
 
 # Introduction
