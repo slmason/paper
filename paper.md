@@ -27,3 +27,6 @@ We compared simulations from John's model
 # Results
 Our simulation and measurements indicate that particle growth 
 is dominated by coagulation.
+
+# Figures 
+Figures only go at the end in a draft paper.
