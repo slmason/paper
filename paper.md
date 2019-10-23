@@ -1,6 +1,6 @@
 # Authors
-Simon Mason
 John Smith
+Simon Mason
 
 # Title
 Model-measurement comparison of biomass burning aerosol 
