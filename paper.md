@@ -1,8 +1,9 @@
 # Authors
 Simon Mason
+John Smith
 
 # Title
-Measurements of biomass burning aerosol 
+Aging of biomass burning aerosol 
 over West Africa
 
 # Introduction
