@@ -1,9 +1,10 @@
 # Authors
 Simon Mason
+John Smith
 
 # Title
-Size measurements of biomass burning aerosol 
-over West Africa
+Model-measurement comparison of biomass burning aerosol 
+aging of biomass burning aerosol over West Africa
 
 # Introduction
 we present measurements of BBOA over West Africa.
@@ -14,3 +15,7 @@ this region, but continental-scale measurements
 have not previously been made.
 
 Add third paper in intro.
+
+# Simulations 
+we simulate the evolution of BBOA over W Africa,
+using John's model
